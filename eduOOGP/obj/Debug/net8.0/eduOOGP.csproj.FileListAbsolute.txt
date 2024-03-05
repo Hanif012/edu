@@ -1,0 +1,14 @@
+/media/hanif012/800GB/Linux/edu/eduOOGP/bin/Debug/net8.0/eduOOGP
+/media/hanif012/800GB/Linux/edu/eduOOGP/bin/Debug/net8.0/eduOOGP.deps.json
+/media/hanif012/800GB/Linux/edu/eduOOGP/bin/Debug/net8.0/eduOOGP.runtimeconfig.json
+/media/hanif012/800GB/Linux/edu/eduOOGP/bin/Debug/net8.0/eduOOGP.dll
+/media/hanif012/800GB/Linux/edu/eduOOGP/bin/Debug/net8.0/eduOOGP.pdb
+/media/hanif012/800GB/Linux/edu/eduOOGP/obj/Debug/net8.0/eduOOGP.GeneratedMSBuildEditorConfig.editorconfig
+/media/hanif012/800GB/Linux/edu/eduOOGP/obj/Debug/net8.0/eduOOGP.AssemblyInfoInputs.cache
+/media/hanif012/800GB/Linux/edu/eduOOGP/obj/Debug/net8.0/eduOOGP.AssemblyInfo.cs
+/media/hanif012/800GB/Linux/edu/eduOOGP/obj/Debug/net8.0/eduOOGP.csproj.CoreCompileInputs.cache
+/media/hanif012/800GB/Linux/edu/eduOOGP/obj/Debug/net8.0/eduOOGP.dll
+/media/hanif012/800GB/Linux/edu/eduOOGP/obj/Debug/net8.0/refint/eduOOGP.dll
+/media/hanif012/800GB/Linux/edu/eduOOGP/obj/Debug/net8.0/eduOOGP.pdb
+/media/hanif012/800GB/Linux/edu/eduOOGP/obj/Debug/net8.0/eduOOGP.genruntimeconfig.cache
+/media/hanif012/800GB/Linux/edu/eduOOGP/obj/Debug/net8.0/ref/eduOOGP.dll

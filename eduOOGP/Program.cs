@@ -121,12 +121,12 @@
 //         Voice();
 //         CastSpell();
 //     }
-//     private  void Voice()  // Override the Attack method
+//     public  void Voice()  // Override the Attack method
 //     {
 //         Console.WriteLine("nyehehehe!");
 //     }
 
-//     private void CastSpell()
+//     public void CastSpell()
 //     {
 //         Random rnd = new();
 //         Console.WriteLine("I'm casting a spell on you!");
@@ -217,5 +217,7 @@ class Program
         Console.WriteLine("Imma "+ myWitch.Name + "\nEntity Type\t: " + myWitch.Entity_Type + "\nHealth\t\t: " + myWitch.Enemy_Health);
         Console.WriteLine("The witch is attacking!!!\n");
         myWitch.Attack();
+
+        myWitch.CastSpell();  // This will throw an error because the method is private
     }
 }

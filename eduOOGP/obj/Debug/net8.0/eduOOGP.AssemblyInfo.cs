@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eduOOGP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96443e623c55823ad9f71cbb086805a5b918e21b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71042218873b95d3912928962264a0579366eac6")]
 [assembly: System.Reflection.AssemblyProductAttribute("eduOOGP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eduOOGP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

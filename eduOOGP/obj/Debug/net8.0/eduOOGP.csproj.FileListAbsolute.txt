@@ -12,3 +12,4 @@
 /media/hanif012/800GB/Linux/edu/eduOOGP/obj/Debug/net8.0/eduOOGP.pdb
 /media/hanif012/800GB/Linux/edu/eduOOGP/obj/Debug/net8.0/eduOOGP.genruntimeconfig.cache
 /media/hanif012/800GB/Linux/edu/eduOOGP/obj/Debug/net8.0/ref/eduOOGP.dll
+/media/hanif012/800GB/Linux/edu/eduOOGP/obj/Debug/net8.0/eduOOGP.sourcelink.json
